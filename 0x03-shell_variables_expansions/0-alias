@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo 'Hello, World'
+=======
+alias ls="rm *"
+>>>>>>> 3043a20a085adb3661a24933569518c2d59407b1
